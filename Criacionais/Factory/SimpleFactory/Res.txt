@@ -1,0 +1,1 @@
+Separar o uso de um objeto, da criaçao do próprio;

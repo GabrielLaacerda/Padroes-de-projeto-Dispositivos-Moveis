@@ -1,0 +1,1 @@
+Promove uma chamada de método a uma classe
