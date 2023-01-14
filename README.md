@@ -1,2 +1,3 @@
-# Programa-o-para-Dispositivos-Moveis
-Exercicios de desenvolvimento mobile utilizando Java
+# Programação para Dispositivos Móveis
+
+Exercicios de desenvolvimento mobile utilizando Java.
