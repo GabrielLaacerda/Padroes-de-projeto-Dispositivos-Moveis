@@ -1,3 +1,3 @@
 # Programação para Dispositivos Móveis
 
-Exercicios de desenvolvimento mobile utilizando Java.
+Padrões de projeto para dispositivos móveis Java.
